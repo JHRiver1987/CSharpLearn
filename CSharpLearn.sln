@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-RSA加密", "14-RSA加�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Regex正则表达式", "15-Regex正则表达式\15-Regex正则表达式.csproj", "{22DAB5A0-AF34-4DDA-9B96-B6FF2D25877C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Math数值处理类", "16-Math数值处理类\16-Math数值处理类.csproj", "{8D65B0A4-EA28-4190-BB32-E08F6BFA921D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Random伪随机数", "17-Random伪随机数\17-Random伪随机数.csproj", "{1B395D1B-B483-454E-8A84-F831D3DEF11C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{22DAB5A0-AF34-4DDA-9B96-B6FF2D25877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22DAB5A0-AF34-4DDA-9B96-B6FF2D25877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22DAB5A0-AF34-4DDA-9B96-B6FF2D25877C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D65B0A4-EA28-4190-BB32-E08F6BFA921D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D65B0A4-EA28-4190-BB32-E08F6BFA921D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D65B0A4-EA28-4190-BB32-E08F6BFA921D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D65B0A4-EA28-4190-BB32-E08F6BFA921D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B395D1B-B483-454E-8A84-F831D3DEF11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B395D1B-B483-454E-8A84-F831D3DEF11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B395D1B-B483-454E-8A84-F831D3DEF11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B395D1B-B483-454E-8A84-F831D3DEF11C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
