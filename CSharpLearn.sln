@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42-virtual虚方法", "42-v
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43-运算符重载", "43-运算符重载\43-运算符重载.csproj", "{BFACECE7-D24D-40FC-BEA1-5C3D081E1023}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44-接口", "44-接口\44-接口.csproj", "{8BF30389-4034-4131-B6B8-5FE1750F69A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{BFACECE7-D24D-40FC-BEA1-5C3D081E1023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFACECE7-D24D-40FC-BEA1-5C3D081E1023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFACECE7-D24D-40FC-BEA1-5C3D081E1023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF30389-4034-4131-B6B8-5FE1750F69A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF30389-4034-4131-B6B8-5FE1750F69A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF30389-4034-4131-B6B8-5FE1750F69A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF30389-4034-4131-B6B8-5FE1750F69A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
