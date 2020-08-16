@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8BF30389-4034-4131-B6B8-5FE1750F69A8}</ProjectGuid>
+    <ProjectGuid>{FAA5E655-6FFE-4DA8-8F3E-8360EA0B5A89}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_44_接口</RootNamespace>
-    <AssemblyName>44-接口</AssemblyName>
+    <RootNamespace>_45_FileStream文件读写与关闭</RootNamespace>
+    <AssemblyName>45-FileStream文件读写与关闭</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Implementer.cs" />
-    <Compile Include="IMyInterface1.cs" />
-    <Compile Include="IMyInterface2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
